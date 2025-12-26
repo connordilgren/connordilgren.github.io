@@ -26,6 +26,6 @@ latest_posts:
 
 Hello! I am a second-year master's student at the University of Maryland, advised by <a href="https://sarahwie.github.io/">Professor Sarah Wiegreffe</a>. My current research interests are in AI (especially LLM) interpretability, how mechanistic interpretability can be used to improve explanations of model behavior, and how these explanations can improve human oversight of AI systems.
 
-Before graduate school, I was an engineer at <a href="https://www.bellflight.com/">Bell</a>, where I worked to improve aircraft safety. I have two bachelor's degrees: one in Mechanical Engineering from The University of Texas at Austin, and another in Computer Science from Oregon State University.
+Before graduate school, I earned a bachelor's degree in Mechanical Engineering from The University of Texas at Austin. After that, I worked as an engineer at <a href="https://www.bellflight.com/">Bell</a>, where I worked to improve aircraft safety. During my time at Bell, I completed a second bachelor's degree in Computer Science from Oregon State University.
 
 Outside of research, I enjoy playing basketball, hiking, and going to concerts.
