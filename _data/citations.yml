@@ -1,7 +1,7 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-21'
 papers:
   iR7sBAcAAAAJ:u5HHmVD_uO8C:
-    citations: 10
+    citations: 11
     title: 'SecRepoBench: Benchmarking Code Agents for Secure Code Completion in Real-World Repositories'
     year: '2025'
