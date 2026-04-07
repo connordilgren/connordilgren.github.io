@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper SecRepoBench was accepted to LLM4Code 2026!
+Our paper SecRepoBench was accepted to LLM4Code 2026 (ICSE workshop)!
