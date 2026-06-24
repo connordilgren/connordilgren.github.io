@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student at the <a href='https://www.cs.umd.edu/'>University of Maryland</a>
+subtitle: PhD student at the <a href='https://www.cs.umd.edu/'>University of Maryland</a>
 
 profile:
   align: right
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a second-year master's student at the University of Maryland, advised by <a href="https://sarahwie.github.io/">Professor Sarah Wiegreffe</a>. My current research interests are in AI (especially LLM) interpretability, how mechanistic interpretability can be used to improve explanations of model behavior, and how these explanations can improve human oversight of AI systems.
+Hello! I am a first-year PhD student at the University of Maryland, advised by <a href="https://sarahwie.github.io/">Professor Sarah Wiegreffe</a>. My current research interests are in AI (especially LLM) interpretability, how mechanistic interpretability can be used to improve explanations of model behavior, and how these explanations can improve human oversight of AI systems.
 
 Before graduate school, I earned a bachelor's degree in Mechanical Engineering from The University of Texas at Austin. After that, I worked as an engineer at <a href="https://www.bellflight.com/">Bell</a>, where I worked to improve aircraft safety. During my time at Bell, I completed a second bachelor's degree in Computer Science from Oregon State University.
 
