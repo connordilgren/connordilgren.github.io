@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-01'
 papers:
   iR7sBAcAAAAJ:u-x6o8ySG0sC:
-    citations: 3
+    citations: 4
     title: Are Latent Reasoning Models Easily Interpretable?
     year: '2026'
   iR7sBAcAAAAJ:u5HHmVD_uO8C:
-    citations: 21
+    citations: 24
     title: 'SecRepoBench: Benchmarking Code Agents for Secure Code Completion in Real-World Repositories'
     year: '2025'
