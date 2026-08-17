@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/courses/";
           },
-        },{id: "post-vercel-security-checkpoint",
+        },{id: "post-evaluating-chain-of-thought-monitorability-is-still-an-open-problem-comments-on-openai-39-s-monitorability-evals",
         
-          title: 'Vercel Security Checkpoint <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Evaluating Chain-of-Thought Monitorability is Still an Open Problem: Comments on OpenAI&#39;s Monitorability Evals... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
