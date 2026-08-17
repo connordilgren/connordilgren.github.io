@@ -67,6 +67,7 @@ module ExternalPosts
       doc.data['description'] = content[:summary]
       doc.data['date'] = content[:published]
       doc.data['redirect'] = url
+      doc.data['read_time'] = content[:read_time] if content[:read_time]
       doc.content = content[:content]
       site.collections['posts'].docs << doc
     end
@@ -76,6 +77,10 @@ module ExternalPosts
         puts "...fetching #{post['url']}"
         content = fetch_content_from_url(post['url'])
         content[:published] = parse_published_date(post['published_date'])
+        # Use title from config if provided
+        content[:title] = post['title'] if post['title']
+        # Use read_time from config if provided
+        content[:read_time] = post['read_time'] if post['read_time']
         create_document(site, src['name'], post['url'], content)
       end
     end
