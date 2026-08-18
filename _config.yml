@@ -125,7 +125,7 @@ external_sources:
       - url: https://www.lesswrong.com/posts/z9fPtghFxELBXebY3/evaluating-chain-of-thought-monitorability-is-still-an-open
         title: "Evaluating Chain-of-Thought Monitorability is Still an Open Problem: Comments on OpenAI's Monitorability Evals"
         published_date: 2026-08-17
-        read_time: 25
+        read_time: 21
 
 # -----------------------------------------------------------------------------
 # Newsletter
